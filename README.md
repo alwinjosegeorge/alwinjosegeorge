@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.png.png" alt="Alwin Jose George Banner"/>
-</p>
-<p align="center">
+</p><p align="center">
   <img src="Intro 1.mp4" alt="Alwin Jose George Banner"/>
 </p>
 
