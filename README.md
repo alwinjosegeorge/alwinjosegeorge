@@ -48,6 +48,15 @@
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
 
+## 🎮 Play My Tic Tac Toe Game
+
+Click the button below to play! 👇
+
+<p align="center">
+  <a href="https://alwinjosegeorge.github.io/Tic-Tac-Toe-Game/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20NOW-TicTacToe-blue?style=for-the-badge&logo=github&logoColor=white" alt="Play Now Button"/>
+  </a>
+</p>
 
 
 
