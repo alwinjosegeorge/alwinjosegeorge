@@ -54,7 +54,7 @@ Click the button below to play! 👇
 
 <p align="center">
   <a href="https://alwinjosegeorge.github.io/Tic-Tac-Toe-Game/" target="_blank">
-    <img src="Human Tic-Tac-Toe.jpeg" alt="Play Now Button"/>
+    <img src="Human Tic-Tac-Toe.jpeg" alt="Play Now Button" width="100"/>
   </a>
 </p>
 
