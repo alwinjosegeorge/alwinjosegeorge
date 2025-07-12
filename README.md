@@ -2,7 +2,6 @@
   <img src="banner.png.png" alt="Alwin Jose George Banner"/>
 </p>
 
-<p align="center"> <img src="https://64.media.tumblr.com/3c8a9a9e6f9e9c9a9a9a9a9a9a9a9a9/tumblr_pw0q0q0q0q0q0q0q0_540.gifv" width="800"/> </p>
 
 
 
@@ -11,8 +10,6 @@
   <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>
   Hi, I'm Alwin Jose George
 </h1>
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
@@ -22,7 +19,7 @@
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -32,12 +29,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=alwinjosegeorge&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alwinjosegeorge&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alwinjosegeorge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
+
 
 
 
