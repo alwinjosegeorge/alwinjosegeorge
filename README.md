@@ -45,21 +45,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
-</p>
-
----
 
 ## 🐍 GitHub Activity Snake
 
