@@ -3,11 +3,9 @@
 </p>
 
 ---
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold; color:#00BFFF;">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>
-  👋 Hey there, I'm <span style="color:#FFD700;">Alwin Jose George</span>
-</h1>
-
+  Hi, I'm Alwin Jose George
 </h1>
 
 
