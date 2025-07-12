@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>
   Hi, I'm Alwin Jose George
 </h1>
-# Hey there :wave:
+
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p align="center">
