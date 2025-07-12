@@ -1,5 +1,4 @@
 
-![Gameboy Animation](https://raw.githubusercontent.com/matyo91/matyo91/master/gameboy.gif)
 
 
 ---
