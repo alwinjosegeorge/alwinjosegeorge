@@ -20,7 +20,9 @@
 </p>
 
 
-## 💻 Tech Stack
+## 💻 
+<p> <img src="https://i.pinimg.com/736x/56/3f/90/563f90e42422a6e307b161221e5636ba.jpg" width="1000"/>
+</p> ##Tech Stack
 ### **Connect With Me**
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/alwin-jose-george-5b204032b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](alwinjosegeorge2028@cs.sjcetpalai.ac.in) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alwin_jose_george/)  
 
