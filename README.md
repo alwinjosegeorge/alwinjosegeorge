@@ -54,11 +54,7 @@ Click the button below to play! 👇
 
 <p align="center">
   <a href="https://alwinjosegeorge.github.io/Tic-Tac-Toe-Game/" target="_blank">
-    <p align="center">
-      <img src="Human Tic-Tac-Toe.jpeg" alt="Human Tic Tac Toe" width="500"/>
-    </p>
-
-    <img src="https://img.shields.io/badge/PLAY%20NOW-TicTacToe-blue?style=for-the-badge&logo=github&logoColor=white" alt="Play Now Button"/>
+    <img src="Human Tic-Tac-Toe.jpeg" alt="Play Now Button"/>
   </a>
 </p>
 
