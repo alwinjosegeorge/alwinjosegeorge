@@ -1,5 +1,5 @@
 
-
+ **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**
 ---
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>
@@ -70,6 +70,4 @@ picture>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alwinjosegeorge&icon=7&color=0" alt="Profile Views"/>
-</p>
+
