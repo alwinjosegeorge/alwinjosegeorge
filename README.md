@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Blue Modern Personal Business LinkedIn Background Photo (1).png" alt="Alwin Jose George Banner"/>
+  <img src="banner.png.png" alt="Alwin Jose George Banner"/>
 </p>
 
 ---
