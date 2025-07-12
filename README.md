@@ -21,6 +21,7 @@
 
 
 ## 💻 Tech Stack
+### **Contact Me**
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/alwin-jose-george-5b204032b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alwin_jose_george/)  
 
 ### **Programming Languages**
