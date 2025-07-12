@@ -1,4 +1,7 @@
-<a href="https://imgbox.com/YMVX0GF2" target="_blank"><img src="https://thumbs2.imgbox.com/ae/f5/YMVX0GF2_t.png" alt="image host"/></a>
+<p align="center">
+  <img src="banner.png" alt="Alwin Jose George Banner"/>
+</p>
+
 ---
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>
