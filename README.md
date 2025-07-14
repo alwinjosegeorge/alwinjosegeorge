@@ -54,13 +54,13 @@ A collection of moments captured through my lens.
 
 <p align="center">
   <a href="https://alwinjosegeorge.github.io/Alwins-modern-gallery/" target="_blank">
-    <img src="https://raw.githubusercontent.com/alwinjosegeorge/Alwins-modern-gallery/main/logo/Faith%20to%20Move%20Mountains.jpg" alt="Visit My Gallery" width="400" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
+    <img src="photo_6314308563660555614_y.jpg" alt="Visit My Gallery" width="400" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
   </a>
 </p>
 
 <p align="center"><b>Want to see my gallery? Just tap the image above!</b></p>
 <p align="center">
-  <img src="photo_6314308563660555614_y.jpg" width="1000"/>
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
 
 ## 🎮 Play My Tic Tac Toe Game
