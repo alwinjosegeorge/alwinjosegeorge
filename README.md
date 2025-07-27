@@ -85,12 +85,15 @@ Ready to Play? Click The Image! 🎮
 <p align="center">
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
+
+
+
 <!--END_SECTION:waka-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark&title=-Reviews" alt="alvin-dennis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=onedark&title=-Reviews" alt="alwinjosegeorge" /></a> </p>
 
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alwinjosegeorge&theme=react-dark" alt="Alwin Jose George"/>
 </div>
 
 
