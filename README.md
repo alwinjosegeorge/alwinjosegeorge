@@ -123,7 +123,7 @@ Ready to Play? Click The Image! 🎮
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alwinjosegeorge&label=Profile+Views&color=blueviolet&style=for-the-badge&labelColor=000000&abbreviated=true"
+  <img src="https://komarev.com/ghpvc/?username=alwinjosegeorge&label=Profile+Views&color=blueviolet&style=plastic&labelColor=000000&abbreviated=true"
     alt="Profile Views"/>
 </p>
 <p align="center" style="font-size: 14px; color: gray;">
