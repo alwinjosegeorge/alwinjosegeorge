@@ -127,10 +127,10 @@ Ready to Play? Click The Image! 🎮
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alwinjosegeorge&label=Profile%20Views&color=0A66C2&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 </p>
-
 <p align="center" style="font-size: 14px; color: gray;">
-  © 2025 Alwin Jose George — Crafted with ❤️ & GitHub
+  © 2025 Alwin Jose George — Designed & Maintained with Precision
 </p>
+
 
 
 
