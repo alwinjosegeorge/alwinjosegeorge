@@ -110,7 +110,7 @@ Ready to Play? Click The Snake GIF! 🎮
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=flat" alt="alwinjosegeorge" /></a> </p>
 
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alwinjosegeorge&theme=react-dark" alt="Alwin Jose George"/>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alwinjosegeorge&hide_border=true&area=true&line_width=3&radius=5&color=007bff&background=1e1e1e&axis_color=bbbbbb&custom_title=Alwin%27s%20GitHub%20Activity&theme=react-dark" alt="Alwin Jose George"/>
 </div>
 
 
