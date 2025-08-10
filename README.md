@@ -63,7 +63,7 @@
 </p>
 
 
-## <img src="gallery_icon.png" alt="Tech Stack" width="24" height="24" style="vertical-align:middle"/> Explore My Modern Gallery
+## <img src="gallery_icon1.png" alt="Tech Stack" width="24" height="24" style="vertical-align:middle"/> Explore My Modern Gallery
 
 
 A collection of moments captured through my lens.
