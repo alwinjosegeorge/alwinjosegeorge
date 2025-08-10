@@ -122,15 +122,13 @@ Ready to Play? Click The Image! 🎮
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
 
-<hr style="border: 1px solid #ddd; margin-top: 40px;">
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alwinjosegeorge&label=Profile%20Views&color=0A66C2&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alwinjosegeorge&label=Profile+Views&color=blueviolet&style=for-the-badge&labelColor=000000&abbreviated=true"
+    alt="Profile Views"/>
 </p>
 <p align="center" style="font-size: 14px; color: gray;">
   © 2025 Alwin Jose George — Designed & Maintained with Precision
 </p>
-
 
 
 
