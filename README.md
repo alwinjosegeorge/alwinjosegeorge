@@ -95,12 +95,8 @@ Ready to Play? Click The Image! 🎮
 
 Ready to Play? Click The Snake GIF! 🎮
 <p align="center">
- <a href="https://slither.io/">  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwinjosegeorge/alwinjosegeorge/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwinjosegeorge/alwinjosegeorge/output/github-snake.svg" />
+ <a href="https://slither.io/">   
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-   </picture>
  </a>
 </p>
 
