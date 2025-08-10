@@ -20,8 +20,8 @@
 </p>
 
 
-## 💻 Tech Stack
-
+ ## <img src="Tech_stack.png" alt="Tech Stack" width="24" height="24" style="vertical-align:middle"/> Tech Stack
+ 
 ### **Connect With Me**
 <p align="left">
  <a href="https://www.linkedin.com/in/alwin-jose-george-5b204032b" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/></a>
