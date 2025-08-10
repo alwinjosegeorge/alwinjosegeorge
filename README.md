@@ -89,8 +89,8 @@ Ready to Play? Click The Image! 🎮
 
 
 <!--END_SECTION:waka-->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=onedark&title=-Reviews" alt="alwinjosegeorge" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=flat
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=flat" alt="alwinjosegeorge" /></a> </p>
 
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alwinjosegeorge&theme=react-dark" alt="Alwin Jose George"/>
