@@ -43,8 +43,7 @@
 
 ### **Tools & Platforms**
 <p align="left">
-<a href="https://github.com/alwinjosegeorge" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
+<a href="https://github.com/alwinjosegeorge" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
        alt="GitHub" width="40" height="40" 
        style="background-color:white; border-radius:50%; padding:5px;"/>
 </a>
