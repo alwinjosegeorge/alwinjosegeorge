@@ -94,12 +94,12 @@ Ready to Play? Click The Image! 🎮
 ## 🐍 GitHub Activity Snake
 
 
- <a href="https://slither.io/" target="_blank" rel="noopener noreferrer">
+ <a href="https://slither.io/">  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwinjosegeorge/alwinjosegeorge/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwinjosegeorge/alwinjosegeorge/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
+   </picture>
 </a>
 
 <p align="center">
