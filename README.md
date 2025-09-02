@@ -53,7 +53,7 @@
 </p>
 
 
-## <img src="graph_bar.png" alt="GitHub Stats" width="24" height="24" style="vertical-align:middle"/> GitHub Stats
+## <img src="graph_bar.png" alt="GitHub Stats" width="40" height="40" style="vertical-align:middle"/> GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alwinjosegeorge&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alwinjosegeorge&theme=tokyonight&hide_border=true)<br/>
