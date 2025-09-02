@@ -53,7 +53,7 @@
 </p>
 
 
-## <img src="graph_bar.png" alt="GitHub Stats" width="40" height="40" style="vertical-align:middle"/> GitHub Stats
+## <img src="graph_bar.png" alt="GitHub Stats" width="30" height="30" style="vertical-align:middle"/> GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alwinjosegeorge&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alwinjosegeorge&theme=tokyonight&hide_border=true)<br/>
@@ -64,7 +64,7 @@
 </p>
 
 
-## <img src="gallery_icon1.png" alt="Tech Stack" width="40" height="40" style="vertical-align:middle"/> Explore My Modern Gallery
+## <img src="gallery_icon1.png" alt="Tech Stack" width="30" height="30" style="vertical-align:middle"/> Explore My Modern Gallery
 
 
 A collection of moments captured through my lens.
