@@ -112,7 +112,7 @@ Ready to Play? Click The Snake GIF! 🎮
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alwinjosegeorge&theme=react-dark" alt="Alwin Jose George"/>
 </div>
-
+<br>
 <p align="center">
   <a href="resume.pdf" target="_blank">
     <img src="resume.png" alt="Resume Preview" width="300" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
