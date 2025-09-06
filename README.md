@@ -115,7 +115,7 @@ Ready to Play? Click The Snake GIF! 🎮
 <br>
 <p align="center">
   <a href="resume.pdf" target="_blank">
-    <img src="resume.png" alt="Resume Preview" width="300" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
+    <img src="Resume (2).png" alt="Resume Preview" width="300" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
     <p align="center"><b>Want to see my resume? Just tap the image above!</b></p>
   </a>
  
