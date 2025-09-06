@@ -128,7 +128,7 @@ Ready to Play? Click The Snake GIF! 🎮
     <img src="resume.png" alt="Resume Preview" width="300" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
   </a>
 </p>
-<p align="center"><i>Click the image above to view or download my detailed resume.</i></p>
+<p align="center"><i>Click the image above to view or download my resume.</i></p>
 
 
 <p align="center">
