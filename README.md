@@ -20,7 +20,7 @@
 </p>
 
 
- ## <img src="Tech_stack.png" alt="Tech Stack" width="40" height="40" style="vertical-align:middle"/> Tech Stack
+ ## <a href="resume.pdf" target="_blank"><img src="Tech_stack.png" alt="Tech Stack" width="40" height="40" style="vertical-align:middle"/> </a>Tech Stack
  
 ### **Connect With Me**
 <p align="left">
