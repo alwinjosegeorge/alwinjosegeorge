@@ -84,7 +84,7 @@ A collection of moments captured through my lens.
 
 Ready to Play? Click The Image! 🎮
 <p align="center">
-  <a href="https://alwinjosegeorge.github.io/Tic-Tac-Toe-Game/" target="_blank">
+  <a href="https://alwin-tic-tac-toe.vercel.app/" target="_blank">
     <img src="Human Tic-Tac-Toe.jpeg" alt="Play Now Button" width="300"/>
   </a>
 </p>
