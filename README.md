@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://alwinportfolio.vercel.app/" target="_blank">
-    <img src="Photos/Portfolio Banner.png" alt="Live Demo" width="800"/>
+    <img src="Portfolio Banner.png" alt="Live Demo" width="800"/>
   </a>
 </p>
 
