@@ -1,6 +1,18 @@
-<!- <p align="center">
+<!---<p align="center">
   <img src="banner.png.png" alt="Alwin Jose George Banner"/>
-</p> 
+</p> --->
+<p align="center">
+  <a href="https://alwinportfolio-jvjltrv6o-alwinjosegeorges-projects.vercel.app/" target="_blank">
+    <img src="Portfolio Banner (1).png" alt="Live Demo" width="800"/>
+  </a>
+</p>
+<p align="center">
+  <b>Click the image above to visit my live portfolio 🚀</b>
+</p>
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
+
 
 <h1 align="center"style="font-family: Arial, Helvetica, Verdana;"
 >
@@ -59,19 +71,6 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
-
-<p align="center">
-  <a href="https://alwinportfolio-jvjltrv6o-alwinjosegeorges-projects.vercel.app/" target="_blank">
-    <img src="Portfolio Banner (1).png" alt="Live Demo" width="800"/>
-  </a>
-</p>
-<p align="center">
-  <b>Click the image above to visit my live portfolio 🚀</b>
-</p>
-
-
-
-
 
 ## <img src="gallery_icon1.png" alt="Tech Stack" width="30" height="30" style="vertical-align:middle"/> Explore My Modern Gallery
 
