@@ -2,6 +2,15 @@
   <img src="banner.png.png" alt="Alwin Jose George Banner"/>
 </p>
 
+<p align="center">
+  <a href="https://alwinportfolio.vercel.app/" target="_blank">
+    <img src="Photos/Portfolio Banner.png" alt="Live Demo" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the image above to visit my live portfolio 🚀</b>
+</p>
 
 
 
