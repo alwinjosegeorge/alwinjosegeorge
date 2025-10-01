@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="banner.png.png" alt="Alwin Jose George Banner"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://alwinportfolio.vercel.app/" target="_blank">
