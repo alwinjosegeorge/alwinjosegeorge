@@ -2,7 +2,7 @@
   <img src="banner.png.png" alt="Alwin Jose George Banner"/>
 </p> --->
 <p align="center">
-  <a href="https://alwinportfolio-jvjltrv6o-alwinjosegeorges-projects.vercel.app/" target="_blank">
+  <a href="https://alwinportfolio.vercel.app/" target="_blank">
     <img src="Portfolio Banner (2).png" alt="Live Demo" width="800"/>
   </a>
 </p>
