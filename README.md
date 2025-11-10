@@ -78,7 +78,7 @@
 A collection of moments captured through my lens.
 
 <p align="center">
-  <a href="https://alwins-modern-gallery.vercel.app/" target="_blank">
+  <a href="https://alwinjosegeorge.github.io/Alwins-modern-gallery/" target="_blank">
     <img src="photo_6314308563660555614_y.jpg" alt="Visit My Gallery" width="400" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
   </a>
 </p>
